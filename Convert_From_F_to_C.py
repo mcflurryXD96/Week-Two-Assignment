@@ -1,12 +1,10 @@
-# Default shell for a Python 3.x program
-# Copy this and rename it to write your own code
 #
-__author__ = 'Your Name'
+__author__ = 'Daniel McMurray'
 
-# Your class
-# Name of program
+# CIS 125
+# Fahrenheit & Celsius Table
 #
-# Brief description of what program does.
+# This program prompts the user for a temperature in Fahrenheit, converts it to Celsius, and prints out the results.
 
 # Declare Magic Numbers and Constants
 
